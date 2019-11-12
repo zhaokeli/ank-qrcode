@@ -2,7 +2,6 @@
     "name": "ank/qrcode",
     "description": "php qrcode",
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
     {
         "name": "mokuyu",
@@ -17,7 +16,7 @@
     },
     "require":
     {
-        "ank/image": "1.0.x-dev"
+        "ank/image": "1.0.*@dev"
     },
     "extra":
     {
