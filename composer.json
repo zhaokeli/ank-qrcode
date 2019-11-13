@@ -16,7 +16,7 @@
     },
     "require":
     {
-        "ank/image": "1.0.*@dev"
+        "ank/image": "~1.0"
     },
     "extra":
     {
