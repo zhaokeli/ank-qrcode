@@ -16,7 +16,7 @@
     },
     "require":
     {
-        "ank/image": "~1.0"
+        "ank/image": "^1.0"
     },
     "extra":
     {
